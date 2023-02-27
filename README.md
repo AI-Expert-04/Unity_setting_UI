@@ -1,13 +1,12 @@
 # Unity_setting_UI
 
 ## 게임 환경설정 UI
-![image](result/Preferences.png)
+![image](image/main.png)
 
 ## 게임 그래픽 설정 UI
-![image](result/Preferences.png)
+![image](image/Graphic.png)
+![image](image/Graphic_UI_1.png)
+![image](image/Graphic_UI_2.png)
 
 ## 게임 사운드 설정 UI
-![image](result/Preferences.png)
-
-## 게임 감도 설정 UI
-![image](result/Preferences.png)
+![image](image/Sound_UI.png)
