@@ -4,7 +4,7 @@
 ![image](image/main.png)
 
 ## 게임 그래픽 설정 UI
-<img src ="image/Graphic.png" width="30%"></img>
+<img src ="image/Graphic.png" width="100%"></img>
 ![image](image/Graphic_UI_1.png)
 ![image](image/Graphic_UI_2.png)
 
